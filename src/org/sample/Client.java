@@ -24,5 +24,16 @@ public class Client extends Company {
 	public void custPhone() {
 		System.out.println("Customer Number : 1234567890");
 
+
 	}
+	public void custEmail() {
+		System.out.println("Customer Email :abcdef@gmail.com");
+	}
+
+	public void custLocation() {
+		System.out.println("Customer Location :Chennai,India");
+
+	}
+
+	
 }
