@@ -16,6 +16,16 @@ public class Client extends Company {
 
 	}
 
+	public void custAdd() {
+		System.out.println("Customer address : Chennai");
+
+	}
+
+	public void custPhone() {
+		System.out.println("Customer Number : 1234567890");
+
+
+	}
 	public void custEmail() {
 		System.out.println("Customer Email :abcdef@gmail.com");
 	}
@@ -25,4 +35,5 @@ public class Client extends Company {
 
 	}
 
+	
 }
